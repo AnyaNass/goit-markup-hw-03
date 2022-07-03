@@ -34,7 +34,7 @@ body {
 }
 
 .container {
-	max-width: 1230px;
+	max-width: 1200px;
 	width: 100%;
 	margin: 0 auto;
 	padding: 0 15px;
@@ -59,7 +59,7 @@ body {
 
 .header {
 	border-bottom: 1px solid #ECECEC;
-	padding: 25px 0;
+	padding: 24px 0;
 }
 
 .header-row {
@@ -191,6 +191,7 @@ body {
 
 .work {
 	text-align: center;
+	padding-top: 0;
 }
 
 .section-title {
